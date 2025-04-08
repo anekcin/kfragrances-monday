@@ -6,7 +6,7 @@ Welcome to **K-Fragrances**, an elegant web-based perfume store where users can 
 
 ## 👩‍💻 Authors
 
-**Abigail Nickena Robinson - 2101752**  
+**Abigail Robinson - 2101752**  
 **Enidro Hall - 2301550**
 **Roneil Burnette - 2404487**
 University of Technology, Jamaica 
@@ -51,7 +51,7 @@ K-Fragrances/
 
 1. **Download or Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/k-fragrances.git
+   git clone https://github.com/anekcin/kfragrances-monday.git
    cd k-fragrances
    ```
 
