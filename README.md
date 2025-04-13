@@ -6,9 +6,20 @@ Welcome to **K-Fragrances**, an elegant web-based perfume store where users can 
 
 ## 👩‍💻 Authors
 
-**Abigail Robinson - 2101752**  
-**Enidro Hall - 2301550**
-**Roneil Burnette - 2404487**
+- **Abigail Robinson (2101752)**  
+  - Updated the **Login** page (validation, session management)  
+  - Designed and implemented the **Registration** page (form, validation)  
+  - Designed the **Welcome** page (personalized greeting)  
+  - Designed and implemented the **Dashboard** page (user demographics & invoice lookup)
+
+- **Roneil Burnette (2404487)**  
+  - Updated the **Product** page (dynamic product loading, Add to Cart functionality)  
+  - Designed and implemented the **Cart** page (item list, quantity controls, pricing logic)
+
+- **Enidro Hall(2301550)**  
+  - Designed and implemented the **Checkout** page (cart summary, shipping form, invoice creation)  
+  - Updated the **Invoice** page (detailed invoice display, user‑tied invoices)
+
 University of Technology, Jamaica 
 
 
